@@ -1,0 +1,12 @@
+POST http://192.168.1.5:3000/bill/detail HTTP/1.1
+content-type: application/json
+
+{
+                    "address": "Global.infoUser.address",
+                    "name": "Global.infoUser.name",
+                    "phone": "Global.infoUser.phone",
+                    "oderid": "e.id",
+                    "title": "e.title",
+                    "quantity": 123,
+                    "total": 123
+}
