@@ -1,0 +1,254 @@
+{
+    "status": "success",
+    "data": {
+    "type": [
+    {
+    "id": 1,
+    "image": "nuocngot",
+    "title": "Nước giặt ARIELmatic dịu nhẹ túi 3.25kg",
+    "price": 159000,
+    "describe": "Nước Giặt Ariel Matic dịu nhẹ là sản phẩm được nhiều người ưa chuộng bởi tính năng đánh bay vết bẩn ngay từ lần giặt đầu tiên, làm trắng sáng vải, giúp vải mềm mịn và lưu lại hương thơm trên quần áo. Giúp loại sạch vết bẩn cứng đầu tốt hơn trong 1 bước giặt. Sản phẩm được nhiều người ưa chuộng bởi tính năng đánh bay vết bẩn ngay từ lần giặt đầu tiên, làm trắng sáng vải, giúp vải mềm mịn và lưu lại hương thơm dịu nhẹ."
+    },
+    {
+    "id": 2,
+    "image": "xaphong",
+    "title": "Thùng 24 Lon Bia Lager Budweiser Chính Hãng (330ml/lon)",
+    "price": 385000,
+    "describe": "Budweiser là xuất xứ từ Budweiser một thị trấn của Czeck tên là Budujovice nơi tạo ra công thức nguyên bản để nấu những mẻ bia Budweiser đầu tiên, \"King of Beers\" lần đầu được sử dụng năm 1898 để kỷ niệm 500 triệu chai bia Budweiser thượng hạng đầu tiên được sản xuât"
+    }
+    ],
+    "coop_smile": [],
+    "tiki_book": [],
+    "bhx": [],
+    "lavie": [],
+    "tiger": [],
+    "vinamilk": [],
+    "_id": "60d57f5b046f204a9cd1e04d",
+    "CoopSmile": [
+    {
+    "id": 1,
+    "image": "gaothom",
+    "title": "Gạo Thơm ST24 Co.op Finest 5Kg",
+    "price": 99000,
+    "rootprice": 147000,
+    "describe": "Gạo thơm ST24 Coop Finest có đặc tính hạt dài, trắng trong, cơm dẻo vừa và có hương thơm mùi lá dứa. Đặc biệt, khi để nguội cơm vẫn ngon, không bị cứng."
+    },
+    {
+    "id": 2,
+    "image": "nuocgiat",
+    "title": "Nước Giặt Co.op Select Hương Thảo Mộc 4L",
+    "price": 99000,
+    "rootprice": 136000,
+    "describe": "Nước Giặt Coop Hương Thảo Mộc không chỉ giúp bạn giặt mà còn hỗ trợ xả, tiết kiệm thời gian và công sức hơn các sản phẩm thông thường. Sản phẩm gồm các thành phần được chiết xuất từ thiên nhiên nên an toàn cho làn da. Nước giặt xả đem đến hương thơm từ thảo mộc tươi mát, cho gia đình bạn luôn cảm thấy dễ chịu và thoải mái suốt cả ngày."
+    },
+    {
+    "id": 3,
+    "image": "nuoclausan",
+    "title": "Nước Lau Sàn Coop Hương Nhài & Lily 4L",
+    "price": 49000,
+    "rootprice": 79500,
+    "describe": "Nước lau sàn Coop Select hương nhài và lily với hương thơm ngào ngạt, giúp sàn nhà sáng bóng, ngát hương dài lâu.Nước lau sàn Coop Select hương nhài và lily tẩy sạch các vết bẩn bám trên sàn nhà, nền gạch. Mang lại hương thơm mát cho ngôi nhà của bạn.Bảo quản ở nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp. Để xa tầm tay trẻ em."
+    },
+    {
+    "id": 4,
+    "image": "knor",
+    "title": "Hạt Nêm KNORR Từ Thịt Xương & Tủy 900g",
+    "price": 59000,
+    "rootprice": 73000,
+    "describe": "Hạt Nêm Thịt Thăn, Xương Ống Và Tủy Knorr được làm từ thịt thăn, xương ống và tủy giúp bổ sung vitamin A tốt cho sức khỏe.Do đó, các bà nội trợ hoàn toàn có thể yên tâm khi chế biến món ngon cho gia đình mình mỗi ngày."
+    }
+    ],
+    "TikiBook": [
+    {
+    "id": 1,
+    "image": "cheetahs",
+    "title": "Cheetahs in Focus: Footprint Reading Library",
+    "price": 78000,
+    "describe": "A National Geographic team in Botswana sets out on the difficult task of filming one of the most beautiful creatures on earth; the cheetah. Cheetahs are presently endangered and the team’s goal is to show how important these animals are through photographs. Why is it so difficult to photograph a cheetah? Will they succeed in getting the shots?"
+    },
+    {
+    "id": 2,
+    "image": "thestonecvtter",
+    "title": "Usborne First Reading Level Two: The Stonecutter",
+    "price": 96800,
+    "describe": "The traditional tale from Japan retold for beginner readers ready to tackle slightly more complicated storylines and sentence structures. There was once a stonecutter who wasn’t happy, so he wished to be lots of other things instead. Part of the Usborne Reading Programme developed with reading experts at the University of Roehampton. Includes several pages of reading-related puzzles."
+    },
+    {
+    "id": 3,
+    "image": "cuocdoi",
+    "title": "Thiết Kế Cuộc Đời Thịnh Vượng - Design a Prosperous Life",
+    "price": 299000,
+    "describe": "Có thể nói, đây vừa là một quyển tự truyện đi kèm với những bí quyết tạo nên một cuộc đời đáng sống trong suốt 20 năm “lăn lộn” trường đời của tác giả. Quyển sách không ru ngủ bạn với những công thức thay đổi bản thân thần thánh mà tập trung vào giải quyết những vấn đề của bạn bằng cách đưa ra các phương pháp đánh giá, nhìn nhận bản thân và cung cấp cho bạn những “vật tư” xây nên một cuộc đời bạn mong muốn. "
+    },
+    {
+    "id": 4,
+    "image": "giacmo",
+    "title": "Những Giấc Mơ Ở Hiệu Sách Morisaki",
+    "price": 1395000,
+    "describe": "Những Giấc Mơ Ở Hiệu Sách Morisaki Bị người yêu lừa dối, Takako bỏ việc và rơi vào chuỗi ngày ngủ triền miên để trốn tránh nỗi buồn. Thế rồi, một cuộc điện thoại từ người cậu ruột cả 10 năm trời không gặp đã đánh thức cô khỏi cơn mộng mị. Takako đồng ý đến trông hiệu sách nửa buổi giúp cậu chỉ để làm vừa lòng mẹ. Nhưng thật ngoài tưởng tượng, chờ đợi cô là hiệu sách Morisaki cũ kỹ với thế giới của hàng nghìn cuốn sách chứa trong mình cả thời gian và lịch sử. Sách đã chữa lành vết thương trong lòng cô."
+    },
+    {
+    "id": 5,
+    "image": "haisophan",
+    "title": "Hai Số Phận (Bìa Cứng) - Tặng Bookmark Happy Life",
+    "price": 1395000,
+    "describe": "Hai Số Phận (Bìa Cứng) là cuốn sách không chỉ đơn thuần là một cuốn tiểu thuyết đây có thể coi như là thanhs kinh cho những người không dễ dãi chấp nhận lối mòn, cuốn sách được nhiều độc giả yêu thích."
+    },
+    {
+    "id": 6,
+    "image": "haivandam",
+    "title": "Hai Vạn Dặm Dưới Biển",
+    "price": 79000,
+    "describe": "Hai Vạn Dặm Dưới Biển Truyện viễn tưởng hay giả tưởng đã có khá nhiều nhà văn trên thế giới thể hiện trong tác phẩm của mình. Cũng là trí tưởng tượng, nhưng khác với truyện cổ tích hay thần thoại, tiểu thuyết giả tưởng thường mang đậm chất hiện thực, sống động."
+    }
+    ],
+    "BHX": [
+    {
+    "id": 1,
+    "image": "vai",
+    "title": "Vải Thiều Tươi 1kg (giao ngẫu nhiên túi lưới hoặc hộp)",
+    "price": 49000,
+    "describe": "Vải thiều tươi túi 1kg giòn mọng nước, vị ngọt thanh đầy kích thích. Mua tại bachhoaxanh.com với giá tốt, hàng tươi ngon, giao hàng tận nơi."
+    },
+    {
+    "id": 2,
+    "image": "thitca",
+    "title": "Cá Diêu Hồng Làm Sạch Khay 500g",
+    "price": 48000,
+    "describe": "Cá điêu hồng loại cá phổ biến có thịt nhiều, ít xương, thịt trắng, ngọt và lành tính, cá điêu hồng chế biến thành rất nhiều món ngon trong bữa cơm gia đình như cá điêu hồng kho, cá điêu hồng nấu canh chua, cá điêu hồng chiên giòn, cá điêu hồng sốt cà chua,..."
+    },
+    {
+    "id": 3,
+    "image": "thitga",
+    "title": "Đùi Tỏi Gà C.P Khay 500g",
+    "price": 52000,
+    "describe": "Đùi tỏi gà CP đạt các tiêu chuẩn về an toàn thực phẩm, đảm bảo về chất lượng, độ tươi và ngon, xuất xứ rõ ràng. Là một một nguyên liệu thích hợp để nấu món gà rán, cơm đùi gà quay tiêu hay gà chiên nước mắm,... Có thể dùng điện thoại quét code QR trên sản phẩm để kiểm tra nguồn góc."
+    },
+    {
+    "id": 4,
+    "image": "thitheo",
+    "title": "Thịt Heo Xay G Khay 300g",
+    "price": 52000,
+    "describe": "Thịt heo xay G được đóng gói và bảo quản đạt các tiêu chuẩn về an toàn toàn thực phẩm. Thịt được sơ chế kĩ càng, tiện lợi cho người mua khi chế biến thành các món canh rau hoặc cháo. Có thể dùng điện thoại quét mã QR trên tem sản phẩm để kiểm tra nguồn gốc."
+    },
+    {
+    "id": 5,
+    "image": "thitbaroi",
+    "title": "Ba Rọi Heo C.P Khay 500g",
+    "price": 96000,
+    "describe": "Ba rọi heo của thương hiệu CP đạt các tiêu chuẩn về an toàn toàn thực phẩm, đảm bảo chất lượng, độ tươi ngon. Thịt heo mềm, vân nạc, mỡ rõ ràng nên rất phù hợp làm nguyên liệu để nấu thịt kho hột vịt, thịt nướng BBQ. Có thể dùng điện thoại quét mã QR trên tem sản phẩm để kiểm tra nguồn gốc."
+    },
+    {
+    "id": 6,
+    "image": "thitcahoi",
+    "title": "Cá hồi cắt khúc Khay 300g (giao ngẫu nhiên khúc mình hoặc đuôi)",
+    "price": 94000,
+    "describe": "Với thịt cá ngọt, béo ngậy, tươi rói, cá hồi cắt khúc khay 300g thường được các chị em chọn làm nguyên liệu chính cho các bữa ăn với các món như canh chua cá hồi, cá hồi chiên bơ tỏi,... Cá hồi Bách hoá XANH đảm bảo tươi rói, hàng mới về mỗi ngày"
+    },
+    {
+    "id": 7,
+    "image": "dautay",
+    "title": "Dâu Tây New Zealand Hộp 250g",
+    "price": 99000,
+    "describe": "Dâu tây New Zealand có vị chua, ngọt có thể ăn trực tiếp hoặc làm sinh tố, nước ép, kem,… Loại trái cây nhập khẩu này chứa nhiều vitamin A, B1, B2, đặc biệt là vitamin C rất cao, hơn cả cam và dưa hấu, giúp tăng sức đề kháng cho cơ thể và ngăn ngừa nhiều bệnh. Chúng được ví như những viên đá quý màu đỏ này rất tốt cho trái tim của bạn theo những cách khác nhau. "
+    }
+    ],
+    "Lavie": [
+    {
+    "id": 1,
+    "image": "nuoc",
+    "title": "NƯỚC KHOÁNG LAVIE CHAI 1,5L",
+    "price": 1000,
+    "describe": "Nước khoáng LaVie là sự kết hợp tuyệt vời giữa nguồn nước trong lành với 06 loại khoáng thiên nhiên, có vai trò rất quan trọng cho hoạt động của cơ thể"
+    },
+    {
+    "id": 2,
+    "image": "nuocdao",
+    "title": "E - Nước Giải Khát Có Ga Lavie Hương Đào Cam Lon 330Ml",
+    "price": 15000,
+    "describe": "Thành phần: Nước bão hòa CO2, đường mía, hỗn hợp hương tự nhiên, chất điều chỉnh độ acid (331iii, 296, 330), muối, chiết xuất cỏ ngọt 960,..."
+    },
+    {
+    "id": 3,
+    "image": "nuocchanh",
+    "title": "E - Nước Giải Khát Có Ga Lavie Hương Chanh Bạc Hà Lon 330Ml",
+    "price": 15000,
+    "describe": "Thành phần: Nước bão hòa C02, đường mía, hỗn hợp hương Chanh Vanilla tự nhiên, chất điều chỉnh độ Acid, hương bạc hà tự nhiên, muối, chiết xuất cỏ ngọt. Hướng dẫn sử dụng: Dùng trực tiếp, ngon hơn khi uống lạnh"
+    },
+    {
+    "id": 4,
+    "image": "thungnuoc",
+    "title": "Thùng 24 Chai Nước Khoáng Lavie 500ml",
+    "price": 106000,
+    "describe": "Điểm nổi bật La Vie được sản xuất từ nguồn nước khoáng sâu trong lòng đất, được lọc qua nhiều tầng địa chất giàu khoáng chất, hấp thu muối, các yếu tố vi lượng như calcium, magie, potassium, sodium, bicarbonate...giúp đào thải các độc tố ra khỏi cơ thể, thanh lọc da giúp bạn tinh thần tươi trẻ, sức khỏe căng tràn"
+    }
+    ],
+    "Tiger": [
+    {
+    "image": "tiger",
+    "title": "Thùng Bia Tiger 24 Lon 330ml",
+    "price": 339000,
+    "describe": "Rạng danh một thương hiệu tuyệt hảo – đó là TigerBia Tiger được lên men tự nhiên từ hoa bia và lúa mạch thượng hạng nhập khẩu từ Châu Âu tạo nên một loại bia với hương vị và chất lượng tuyệt hảo. Bia Tiger sẽ mang đến cho bạn những trải nghiệm khó quên, để cuộc vui càng thêm vui. ĐẶC ĐIỂM NỔI BẬTCông nghệ ủ bia tiên tiến.Bia Tiger được lên men tự nhiên từ hoa bia và lúa mạch thượng hạng nhập khẩu từ Châu Âu, mang đến hương vị và chất lượng tuyệt hảo, làm hài lòng giới sành bia ở hơn 60 quốc gia trên thế giới."
+    },
+    {
+    "image": "tigerbac",
+    "title": "Lốc 2 Lon bia Tiger Crystal 330ml",
+    "price": 100000,
+    "describe": "Ra đời từ 2009, Tiger Crystal là một dòng sản phẩm chất lượng của thương hiệu bia Tiger. Tiger Crystal không chỉ đạt đến chất lượng rạng danh trên toàn thế giới mà còn mang đến cảm giác thật sảng khoái và rất dễ uống cho người dùng.Sau 10 năm phát triển, chất lượng tuyệt hảo của Tiger Crystal đã giúp nhãn hàng chinh phục và trở thành lựa chọn hàng đầu của những người sành bia, đặc biệt là giới trẻ - những người tiêu dùng tìm kiếm cho mình một nhãn hiệu hợp thời, hiện đại và đậm cá tính.Với mục tiêu luôn cải tiến để ngày càng phù hợp hơn với người tiêu dùng"
+    },
+    {
+    "image": "heniken",
+    "title": "Thùng Bia Heineken Silver 24 Lon 330ml/lon",
+    "price": 496000,
+    "describe": "Heineken® Silver – nhẹ êm, dễ uống đồng thời lưu giữ trọn vẹn hương vị đậm chất trứ danh trên toàn thế giới của Heineken® . Với hương vị cân bằng hoàn hảo, Heineken® Silver sẽ là người bạn đồng hành lý tưởng song hành cùng mọi cuộc vui, đặc biệt là trong những bữa ăn, vốn là thói quen thưởng thức bia phổ biến tại Việt Nam"
+    },
+    {
+    "image": "strongbow",
+    "title": "Lốc 6 Lon Nước Táo Lên Men Strongbow Vị Dâu Đen 330ml/lon",
+    "price": 70000,
+    "describe": "'Nhãn hiệu Cider số 1 Thế Giới! CẢM HỨNG STRONGBOW Thiên nhiên cho chúng ta năng lượng & động lực để sống hết mình. Lấy cảm hứng từ thiên nhiên, chúng tôi đã chăm chút từng quả táo cho đến quy trình sản xuất để tạo ra màu vàng óng, sự sảng khoái và hương vị thơm nồng khó cưỡng trong những giọt Strongbow Apple Ciders mà bạn đang thưởng thức."
+    }
+    ],
+    "Vinamilk": [
+    {
+    "image": "thungsua",
+    "title": "Thùng 48 hộp sữa tươi tiệt trùng socola Vinamilk 180ml",
+    "price": 390000,
+    "describe": "Sữa tươi tiệt trùng sô cô la Vinamilk hộp 180ml được sản xuất và đóng gói bởi thương hiệu Vinamilk – thương hiệu sữa nổi tiếng tại Việt Nam, được thành lập từ năm 1976 chuyên về chế biến, sản xuất các mặt hàng sản phẩm bơ sữa và sữa bò. Với cam kết mang đến cho cộng đồng nguồn sữa dinh dưỡng và chất lượng hàng đầu bằng sự trân trọng, tình yêu và trách nhiệm cao của mình với cuộc sống con người và xã hội, các sản phẩm của Vinamilk đã nhận được sự tin tưởng của người tiêu dùng trong nước và quốc tế."
+    },
+    {
+    "image": "locsua",
+    "title": "Lốc 4 Hộp Sữa Tươi Vinamilk Có Đường 110ml",
+    "price": 18000,
+    "describe": "Sữa dinh dưỡng VINAMILK giàu dưỡng chất tự nhiên tốt cho sức khỏe, có thể thay thế bữa sáng mà vẫn đủ dinh dưỡng cho người uống. Sữa được tăng cường Vitamin D3, A, C giúp hỗ trợ miễn dịch, cho cả gia đình thêm khỏe mạnh để luôn sẵn sàng làm tốt những công việc quan trọng mỗi ngày. Sữa tươi nguyên chất thanh trùng Vinamilk 100% - được tuyển chọn từ trang trại Vinamilk đạt chuẩn quốc tế Lâm Đồng & Tuyên Quang, nơi có khí hậu, thiên nhiên rất trong lành, là môi trường lý tưởng tạo nên nguồn sữa tươi thơm ngon thuần khiết."
+    },
+    {
+    "image": "lonsua",
+    "title": "COMBO 2 LON SỮA BỘT YOKO 3 850G (CHO TRẺ TỪ 2 - 6 TUỔI)",
+    "price": 820000,
+    "describe": "Yoko Gold với công thức dinh dưỡng dễ tiêu hóa là nền tảng cho việc hấp thu các dưỡng chất thiết yếu của trẻ, giúp tăng cường sức đề kháng và phát triển não bộ"
+    }
+    ],
+    "Logo":{
+        "CoopSmile":
+           {"image":"coopsmile","title":"Co.op Smile"}
+        ,
+        "TikiBook":
+            {"image":"tiki","title":"Tiki Official Store"}
+        ,
+        "BHX":
+            {"image":"bhx","title":"Bách Hóa Xanh"}
+        ,
+        "Lavie":
+            {"image":"lavie","title":"La Vie Official Store "}
+        ,
+        "Tiger":
+            {"image":"tigerlogo","title":"Tiger Official Store"}
+        ,
+        "Vinamilk":
+            {"image":"vinamilk","title":"Vinamilk"}
+        
+    }
+}
+    }
+    
